@@ -1,0 +1,10 @@
+Tuberia\Tuberia.class
+com\mycompany\tuberiasyfiltros\pantalla.class
+com\mycompany\tuberiasyfiltros\TuberiasYFiltros.class
+Filtros\ConvertirAStringFiltro.class
+Filtros\ConvertirAVectorFiltro.class
+Filtros\UnicoEspacioFiltro.class
+com\mycompany\tuberiasyfiltros\pantalla$2.class
+Filtros\OrdenarVectorFiltro.class
+com\mycompany\tuberiasyfiltros\pantalla$1.class
+Filtros\FiltroInterface.class
